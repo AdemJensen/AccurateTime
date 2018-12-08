@@ -1,3 +1,11 @@
+- [AccurateTime](#accuratetime)
+  - [Supported languages](#supported-languages)
+  - [Get started](#get-started)
+    - [JavaScript](#javascript)
+  - [About coding](#about-coding)
+  - [Tiping Author](#tiping-author)
+  - [License](#license)
+
 # AccurateTime
 
 This is a library to implement the time class.
